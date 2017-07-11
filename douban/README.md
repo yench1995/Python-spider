@@ -4,7 +4,7 @@ It uses scrapy so the coding part is easy to understand. The code is tested succ
 This project could output json file and xsw file as following operations.
 
 ### json file
-__command line__: scrapy crawl douban_movie spider
+__command line__: scrapy crawl douban_movie spider  
 __important__: remember to enable the pipeline settings in the settings.py file to output douban_movie.json
 
 ### xsw file
